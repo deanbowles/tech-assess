@@ -1,0 +1,9 @@
+id: ajax_block
+plugin_id: ajax_block
+granularity: method
+configuration:
+  GET:
+    supported_formats:
+      - json
+    supported_auth:
+      -
